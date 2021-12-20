@@ -8,6 +8,7 @@ var status={
   2:'completed',
   3:'cancelled'
 }
+
 var orderDetails={
   'name':'Allen Ford',
   'employeeid':123456789,
@@ -94,4 +95,5 @@ const App = () => {
       </div>
     </div>
   );
+
 }
